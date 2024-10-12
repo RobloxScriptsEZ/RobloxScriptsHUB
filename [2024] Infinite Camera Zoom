@@ -1,0 +1,8 @@
+--READ: The Executor I use https://jjsploit.net/#:~:text=Download%20One%20of%20the%20Best%20Roblox%20Exploiter%20JJSploit
+--READ: Not made by me!
+--READ: This script it useable for ANYTHING (Universal)
+--Extra Info: None!
+ 
+getgenv().host = game:GetService'Players'.LocalPlayer
+ 
+host.CameraMaxZoomDistance = math.huge
